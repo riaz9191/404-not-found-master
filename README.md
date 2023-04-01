@@ -69,5 +69,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- - Website [your-website.com](https://{your-web-site-link}) -->
 
-- GitHub [Riaz Ahammed](https://{github.com/riaz9191})
+- GitHub [Riaz Ahammed](https://github.com/riaz9191)
 <!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
