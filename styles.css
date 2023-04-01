@@ -75,13 +75,16 @@
     border-radius: 0px;
     align-items: center;
     margin-left: 35px;
+    align-items: center;
+    justify-content: center;
   }
   .main-title {
     width: 350px;
     height: 142px;
     left: 24px;
     top: 407px;
-
+    align-items: center;
+    justify-content: center;
     font-family: "Space Mono";
     font-style: normal;
     font-weight: 700;
