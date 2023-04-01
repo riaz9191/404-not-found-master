@@ -1,0 +1,117 @@
+.header-title {
+  font-family: "Inconsolata";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 25px;
+  letter-spacing: -0.08em;
+  text-transform: uppercase;
+  font-family: "Inconsolata", monospace;
+  color: #333333;
+}
+.img_x {
+  height: 447.4263916015625px;
+  width: 539.2236938476562px;
+  left: 77px;
+  top: 265px;
+  border-radius: 0px;
+}
+.btn_x {
+  color: #ffffff;
+  width: 216px;
+  height: 68px;
+  left: 740px;
+  top: 663px;
+
+  /* Gray 1 */
+
+  background: #333333;
+}
+.main-title {
+  width: 586px;
+  height: 190px;
+  left: 735px;
+  top: 265px;
+  font-family: "Inconsolata", monospace;
+
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 95px;
+  letter-spacing: -0.035em;
+
+  /* Gray 1 */
+
+  color: #333333;
+}
+.p-title {
+  width: 381px;
+  height: 108px;
+  left: 736px;
+  top: 491px;
+  margin-top: 26px;
+  margin-bottom: 36px;
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: -0.035em;
+
+  /* Gray 2 */
+
+  color: #4f4f4f;
+}
+
+@media only screen and (max-width: 576px) {
+  /* place here CSS for when the screen is less than 1000px wide */
+  .img_x {
+    /* margin-top: px; */
+    height: 238.00001525878906px;
+    width: 286.829833984375px;
+    left: 44px;
+    top: 109px;
+    border-radius: 0px;
+    align-items: center;
+    margin-left: 35px;
+  }
+  .main-title {
+    width: 350px;
+    height: 142px;
+    left: 24px;
+    top: 407px;
+
+    font-family: "Space Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 71px;
+    letter-spacing: -0.035em;
+    margin-left: 14px;
+
+    /* Gray 1 */
+
+    color: #333333;
+  }
+  .p-title {
+    width: 328px;
+    height: 81px;
+    left: 23px;
+    top: 579px;
+
+    font-family: "Space Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: -0.035em;
+    margin-left: 13px;
+    /* Gray 2 */
+
+    color: #4f4f4f;
+  }
+  .btn_x{
+    margin-left: 14px;
+  }
+}
