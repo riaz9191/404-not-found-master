@@ -70,13 +70,16 @@
     /* margin-top: px; */
     height: 238.00001525878906px;
     width: 286.829833984375px;
-    left: 44px;
-    top: 109px;
+   
     border-radius: 0px;
     align-items: center;
-    margin-left: 35px;
+    /* margin-left: 35px; */
     align-items: center;
     justify-content: center;
+    left: 11.73%;
+    right: 11.78%;
+    top: 11.49%;
+    bottom: 63.44%;
   }
   .main-title {
     width: 350px;
@@ -91,7 +94,7 @@
     font-size: 48px;
     line-height: 71px;
     letter-spacing: -0.035em;
-    margin-left: 14px;
+    /* margin-left: 14px; */
 
     /* Gray 1 */
 
@@ -113,7 +116,7 @@
 
     color: #4f4f4f;
   }
-  .btn_x{
+  .btn_x {
     margin-left: 14px;
   }
 }
